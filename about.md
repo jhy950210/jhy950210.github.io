@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+### 정비중
+정휘영
+백엔드 개발자
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jhyy1995210@gmail.com](mailto:jhyy1995210@gmail.com)
